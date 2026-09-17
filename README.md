@@ -2,6 +2,9 @@
 [![✅ Termux](https://img.shields.io/badge/🥱-Termux_Download-blue?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup/releases/download/App/termux.apk)
 ## Update and upgrade 
 ```bash
+termux-setup-storage
+```
+```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Download-mp3-mp4/refs/heads/main/install.sh | bash
 ```
 ## video download 
