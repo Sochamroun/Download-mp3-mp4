@@ -8,6 +8,11 @@ termux-setup-storage
 ```bash
 curl -sL https://raw.githubusercontent.com/Sochamroun/Download-mp3-mp4/refs/heads/main/install.sh | bash
 ```
+## Webpage Video
+```bash
+curl -#LO https://raw.githubusercontent.com/Sochamroun/Download-mp3-mp4/refs/heads/main/web.py
+```
+* Run python web.py
 ## Tools 
 | command | Description |
 |---------|-------------|
